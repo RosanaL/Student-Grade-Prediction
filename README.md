@@ -17,4 +17,3 @@ Then conduct model comparison analysis.
 Finally, it was found that DNN had the best effect, with a prediction accuracy of up to 70%, while the remaining LTSM, MLP, and random forest also had good effects, reaching more than 65%. However, for SVM and GBM, it was only about 60%. And through the Bayesian optimization algorithm, the effects of DNN and LSTM models can be further improved to achieve a prediction effect of 75%.
 
 And through key factor analysis, it was found that the main factors affecting students' grades are ranked in order of relevance as follows: Student_Avg_Score, the average quality score of questions asked by students (that is, judging whether the questions asked by students are good or not), Answers_Correct, the number of correct answers given by students, and Answers_Submitted, the number of questions answered by students.
-![image](https://github.com/user-attachments/assets/34e84086-6486-4d3b-b717-73d48ed7a0e3)
